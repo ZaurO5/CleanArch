@@ -23,7 +23,7 @@ builder.Services.AddSwaggerGen(x =>
         Title = "CleanArchAPI"
     });
 
-    //x.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, "CleanArch.xml"));
+    x.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, "CleanArch.xml"));
 });
 
 builder.Services.AddDbContext<AppDbContext>(x => x.UseSqlServer(builder.Configuration.GetConnectionString("Default"), x => x.MigrationsAssembly("CleanArch.Presistence")));

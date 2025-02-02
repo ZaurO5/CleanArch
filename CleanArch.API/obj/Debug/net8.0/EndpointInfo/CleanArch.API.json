@@ -9,7 +9,10 @@
         "tags": [
           "Product"
         ],
+        "summary": "For product creating",
+        "description": "<ul>\r\n  <li>\r\n    <b>Type:</b>\r\n    <p>0 - New, 1 - Sold</p>\r\n  </li>>\r\n            </ul>",
         "requestBody": {
+          "description": "",
           "content": {
             "application/json": {
               "schema": {

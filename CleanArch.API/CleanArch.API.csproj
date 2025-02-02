@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
 	<GenerateDocumentationFile>true</GenerateDocumentationFile>
+	<DocumentationFile>C:\Users\User\source\repos\CleanArch\CleanArch.API\bin\Debug\net8.0\CleanArch.xml</DocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>

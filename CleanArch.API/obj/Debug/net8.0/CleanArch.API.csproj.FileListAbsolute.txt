@@ -6,7 +6,6 @@ C:\Users\User\source\repos\CleanArch\CleanArch.API\bin\Debug\net8.0\CleanArch.AP
 C:\Users\User\source\repos\CleanArch\CleanArch.API\bin\Debug\net8.0\CleanArch.API.runtimeconfig.json
 C:\Users\User\source\repos\CleanArch\CleanArch.API\bin\Debug\net8.0\CleanArch.API.dll
 C:\Users\User\source\repos\CleanArch\CleanArch.API\bin\Debug\net8.0\CleanArch.API.pdb
-C:\Users\User\source\repos\CleanArch\CleanArch.API\bin\Debug\net8.0\CleanArch.API.xml
 C:\Users\User\source\repos\CleanArch\CleanArch.API\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\User\source\repos\CleanArch\CleanArch.API\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\User\source\repos\CleanArch\CleanArch.API\bin\Debug\net8.0\Azure.Identity.dll
@@ -153,7 +152,8 @@ C:\Users\User\source\repos\CleanArch\CleanArch.API\obj\Debug\net8.0\staticwebass
 C:\Users\User\source\repos\CleanArch\CleanArch.API\obj\Debug\net8.0\CleanArc.C8BE437D.Up2Date
 C:\Users\User\source\repos\CleanArch\CleanArch.API\obj\Debug\net8.0\CleanArch.API.dll
 C:\Users\User\source\repos\CleanArch\CleanArch.API\obj\Debug\net8.0\refint\CleanArch.API.dll
-C:\Users\User\source\repos\CleanArch\CleanArch.API\obj\Debug\net8.0\CleanArch.API.xml
 C:\Users\User\source\repos\CleanArch\CleanArch.API\obj\Debug\net8.0\CleanArch.API.pdb
 C:\Users\User\source\repos\CleanArch\CleanArch.API\obj\Debug\net8.0\CleanArch.API.genruntimeconfig.cache
 C:\Users\User\source\repos\CleanArch\CleanArch.API\obj\Debug\net8.0\ref\CleanArch.API.dll
+C:\Users\User\source\repos\CleanArch\CleanArch.API\obj\Debug\net8.0\CleanArch.API.sourcelink.json
+C:\Users\User\source\repos\CleanArch\CleanArch.API\bin\Debug\net8.0\CleanArch.xml

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArch.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1308b1e849a65cb642b128f9a0bb28d10d8fe29")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArch.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArch.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
